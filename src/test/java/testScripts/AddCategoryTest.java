@@ -10,6 +10,8 @@ import genericUtilities123.IConstantPath;
 
 public class AddCategoryTest extends BaseClass {
 	
+	//This method is selenium script
+	
 	@Test
 	public void addCategoryTest() throws InterruptedException {
 
